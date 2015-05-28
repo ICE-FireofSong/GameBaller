@@ -1,0 +1,11 @@
+E:\Work for HTML\Egret\Baller\Baller\bin\Baller.dll.config
+E:\Work for HTML\Egret\Baller\Baller\bin\Baller.dll
+E:\Work for HTML\Egret\Baller\Baller\bin\Baller.pdb
+E:\Work for HTML\Egret\Baller\Baller\obj\Debug\Baller.dll
+E:\Work for HTML\Egret\Baller\Baller\obj\Debug\Baller.pdb
+C:\Users\Administrator\Documents\GitHub\BallerOfEgret\Baller\Baller\bin\Baller.dll.config
+C:\Users\Administrator\Documents\GitHub\BallerOfEgret\Baller\Baller\bin\Baller.dll
+C:\Users\Administrator\Documents\GitHub\BallerOfEgret\Baller\Baller\bin\Baller.pdb
+C:\Users\Administrator\Documents\GitHub\BallerOfEgret\Baller\Baller\obj\Debug\Baller.dll
+C:\Users\Administrator\Documents\GitHub\BallerOfEgret\Baller\Baller\obj\Debug\Baller.pdb
+C:\Users\Administrator\Documents\GitHub\BallerOfEgret\Baller\Baller\obj\Debug\Baller.csprojResolveAssemblyReference.cache

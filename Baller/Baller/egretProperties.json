@@ -1,0 +1,20 @@
+{
+	"document_class": "Main",
+	"modules": [
+		{
+			"name": "core"
+		},
+		{
+			"name": "res"
+		},
+		{
+			"name": "physics",
+			"path": "./libsrc/physics"
+		}
+	],
+	"native": {
+		"path_ignore": [],
+		"android_path": "app"
+	},
+	"egret_version": "1.7.0"
+}

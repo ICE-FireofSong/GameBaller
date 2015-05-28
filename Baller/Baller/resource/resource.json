@@ -1,0 +1,10 @@
+{
+ "resources":
+            [
+                { "name": "logo", "type": "image", "url": "assets/logo.png" },
+            ],
+    "groups":
+            [
+                { "name": "preload", "keys": "logo" }
+            ]
+}
